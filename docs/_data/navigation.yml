@@ -1,0 +1,8 @@
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: Home
+  href: /
+- text: Introduction
+  href: /SddIntroduction.html
+- text: FAQs
+  href: /SddFaq.html
